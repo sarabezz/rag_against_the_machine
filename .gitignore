@@ -3,6 +3,6 @@ __pycache__/
 .mypy_cache/
 .venv/
 .pytest_cache/
-data/output/
+data/
 *.egg-info/
 .DS_Store
